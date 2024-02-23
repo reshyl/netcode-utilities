@@ -21,7 +21,7 @@
   },
   "changelogUrl": "https://github.com/reshyl/netcode-utilities/commits/main/",
   "dependencies": {
-	"com.unity.netcode.gameobjects": "1.7.1",
+	"com.unity.netcode.gameobjects": "1.7.1"
   },
   "author": {
     "name": "Reshyl",
