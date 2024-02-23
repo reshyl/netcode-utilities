@@ -1,0 +1,31 @@
+{
+  "name": "com.reshyl.netcode-utilities",
+  "version": "0.1.0",
+  "displayName": "Netcode Utilities",
+  "description": "Some utility scripts for the Netcode For GameObjects unity package.",
+  "unity": "2019.1",
+  "keywords": [
+    "unity",
+    "netcode",
+    "unity-package",
+	"networking"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reshyl/netcode-utilities.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/reshyl/netcode-utilities#readme",
+  "bugs": {
+    "url": "https://github.com/reshyl/netcode-utilities/issues"
+  },
+  "changelogUrl": "https://github.com/reshyl/netcode-utilities/commits/main/",
+  "dependencies": {
+	"com.unity.netcode.gameobjects": "1.7.1",
+  },
+  "author": {
+    "name": "Reshyl",
+    "email": "reshyl.dev@gmail.com",
+    "url": "https://github.com/reshyl"
+  }
+}
